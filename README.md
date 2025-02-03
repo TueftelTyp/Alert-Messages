@@ -4,8 +4,11 @@
 - Add the AlertForm files to your project:
 
 AlertForm.cs
+
 AlertForm.designer.cs
+
 AlertForm.resx
+
 Properties\AlertResources.resx
 
 - Customize the appearance of the Notification form in AlertForm.cs
